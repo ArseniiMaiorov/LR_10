@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>main.qml</file>
+        <file>components/AttachmentDelegate.qml</file>
+        <file>components/SubscriptionPanel.qml</file>
+    </qresource>
+</RCC>
